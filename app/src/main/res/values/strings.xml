@@ -1,0 +1,12 @@
+<resources>
+    <string name="appname">Manhwa App</string>
+    <string name="home">Manhwa List</string>
+    <string name="favorite">Favorite Manhwa</string>
+    <string name="about">About</string>
+    <string name="search">Title of the manhwa you are looking for…</string>
+    <string name="profpic">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:a70aa71fcc04039005ad1bb3150a8ec920231127110335.png</string>
+    <string name="myname">Anjeli Gusnawan</string>
+    <string name="myemail">anjeligusnawan@gmail.com</string>
+    <string name="emptyfav">Too bad, there is no favorites yet!</string>
+    <string name="addfav">Add Fav Manhwa</string>
+</resources>
